@@ -1,0 +1,22 @@
+{
+  "name": "seleniumnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dipakitaliya",
+  "license": "ISC",
+  "dependencies": {
+    "chromedriver": "^80.0.1",
+    "chunk": "0.0.2",
+    "csv-parser": "^2.3.2",
+    "csv-writer": "^1.6.0",
+    "fs": "0.0.1-security",
+    "jquery": "^3.4.1",
+    "path": "^0.12.7",
+    "selenium-webdriver": "^4.0.0-alpha.7",
+    "xlsx": "^0.15.6"
+  }
+}
